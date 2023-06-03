@@ -17,6 +17,12 @@
         android:theme="@style/Theme.TheApp"
         tools:targetApi="31">
         <activity
+            android:name=".LogOutScreen"
+            android:exported="false" />
+        <activity
+            android:name=".Destination"
+            android:exported="false" />
+        <activity
             android:name=".Profile"
             android:exported="false" />
         <activity

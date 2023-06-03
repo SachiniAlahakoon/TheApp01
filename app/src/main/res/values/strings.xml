@@ -24,4 +24,14 @@
     <string name="email">Email</string>
     <string name="todo">TODO</string>
     <string name="Username">Username</string>
+    <string name="destination">destination</string>
+    <string name="age">age</string>
+    <string name="dob">dob</string>
+    <string name="full_name">full_name</string>
+    <string name="to">To</string>
+    <string name="from">From</string>
+    <string name="Destination">Destination</string>
+    <string name="Todo">TODO</string>
+    <string name="logout">LogOut</string>
+    <string name="TOdo">TODO</string>
 </resources>
