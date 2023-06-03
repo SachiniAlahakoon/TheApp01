@@ -2,8 +2,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
-    <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <application
@@ -18,7 +21,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAyZ4OcajWYd3vBInZW1VN6nyt1f8VX-z0"
+            android:value="AIzaSyAyZ4OcajWYd3vBInZW1VN6nyt1f8VX-z0"/>
         <activity
             android:name=".AppPayment"
             android:exported="false" />
@@ -28,13 +31,13 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAyZ4OcajWYd3vBInZW1VN6nyt1f8VX-z0">
+            android:value="AIzaSyAyZ4OcajWYd3vBInZW1VN6nyt1f8VX-z0"/>
 
         <activity
             android:name=".TheApp"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".mainActivity"
             android:exported="false" />
         <activity
             android:name=".SplashActivity"

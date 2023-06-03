@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="google_Map" type="id">google_Map</item>
+    <item name="container" type="id">Container</item>
 </resources>

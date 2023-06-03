@@ -11,4 +11,5 @@
     <string name="security_code">Security Code</string>
     <string name="expair_date">Expair Date</string>
     <string name="card_number">Card Number</string>
+    <string name="get_location">Get Location</string>
 </resources>
