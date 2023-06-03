@@ -12,4 +12,16 @@
     <string name="expair_date">Expair Date</string>
     <string name="card_number">Card Number</string>
     <string name="get_location">Get Location</string>
+    <string name="account" />
+    <string name="setting">setting</string>
+    <string name="Account">account</string>
+    <string name="payment">payment</string>
+    <string name="location">location</string>
+    <string name="my_profile">my_profile</string>
+    <string name="save">Save</string>
+    <string name="phone">Phone</string>
+    <string name="john_doe">John Doe</string>
+    <string name="email">Email</string>
+    <string name="todo">TODO</string>
+    <string name="Username">Username</string>
 </resources>

@@ -17,6 +17,9 @@
         android:theme="@style/Theme.TheApp"
         tools:targetApi="31">
         <activity
+            android:name=".Profile"
+            android:exported="false" />
+        <activity
             android:name=".WelcomePage"
             android:exported="false" />
 
