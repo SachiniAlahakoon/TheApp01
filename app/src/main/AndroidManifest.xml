@@ -17,13 +17,13 @@
         android:theme="@style/Theme.TheApp"
         tools:targetApi="31">
         <activity
-            android:name=".LogOutScreen"
+            android:name=".LogOutScreenActivity"
             android:exported="false" />
         <activity
-            android:name=".Destination"
+            android:name=".DestinationActivity"
             android:exported="false" />
         <activity
-            android:name=".Profile"
+            android:name=".MyProfileActivity"
             android:exported="false" />
         <activity
             android:name=".WelcomePage"
